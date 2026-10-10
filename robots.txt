@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johncamil168-sys.github.io/snapkb/sitemap.xml
